@@ -1,0 +1,14 @@
+fastapi==0.117.1
+uvicorn[standard]==0.36.0
+websockets==14.1
+sqlalchemy==2.0.36
+python-multipart==0.0.20
+opencv-python==4.12.0.88
+deepface==0.0.98
+numpy==2.2.6
+pydantic[email]==2.11.7
+tensorflow==2.20.0
+tf-keras==2.20.1
+firebase-admin==6.5.0
+python-dotenv==1.0.1
+Pillow>=10.0.0
